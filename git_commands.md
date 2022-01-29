@@ -9,3 +9,7 @@
 ### `git commit -m <message>`
 
 ### `git restor --staged <file-name> - Unstage Changes
+
+### `git log` - Check previous commits
+
+### `git reset <hash-key>
